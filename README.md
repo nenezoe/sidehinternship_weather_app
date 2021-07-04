@@ -1,16 +1,18 @@
-# sidehinternship_weather_app
+# sidehinternship_weather_app :umbrella:
 
-A new Flutter project.
+A new Flutter project that gives you accurate weather information based on the [openweathermap](https://openweathermap.org/current) API.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### :muscle: Ability to:
+- Show loading screen
+- Check your current location weather based on GPS.
+- Check the current weather for any City of choice.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### :camera: Screenshots:
+![W Image1](https://user-images.githubusercontent.com/76845356/124383047-5c958100-dcc2-11eb-83c9-d1868cf23000.jpeg)
+![W Image2](https://user-images.githubusercontent.com/76845356/124383059-67501600-dcc2-11eb-9532-d05d3a2ad934.jpeg)
